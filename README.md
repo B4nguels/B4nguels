@@ -3,9 +3,9 @@
 <div style="display: flex; align-items: flex-start;">
 
   <!-- Imagem à esquerda -->
-  <div style="flex: 1;">
-    <img src="github molier.png" alt="Minha Imagem" style="max-width: 100%; height: auto;">
-  </div>
+  
+<img align="left" src="github molier.png" width="300px" style="border: none;"/>
+  
 
   <!-- Código C# à direita -->
   <div style="flex: 2; padding-left: 20px;">
