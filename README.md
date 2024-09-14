@@ -10,6 +10,6 @@
     * Funcionalidade 3
   </div>
   <div style="flex: 1;">
-    <img src="URL_DA_SUA_IMAGEM" alt="Descrição da imagem" style="max-width: 200px; float: right;">
+    <img src="github molier.png" alt="Descrição da imagem" style="max-width: 200px; float: right;">
   </div>
 </div>
