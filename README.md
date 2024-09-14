@@ -19,4 +19,4 @@
   Languages: Html, css, and JavaScript
   Learning: 
   Side interest: Gaming and going out
-</div> </div> ```
+```
