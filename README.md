@@ -1,7 +1,7 @@
-<div style="display: flex; align-items: flex-start;">
+r<div style="display: flex; align-items: center;">
 
   <!-- Input de Imagem à esquerda -->
-  <div style="flex: 1;">
+  <div style="">
     <img src="github molier.png" alt="" srcset="">
   </div>
 
