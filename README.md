@@ -4,7 +4,7 @@
 
   <!-- Imagem à esquerda -->
   <div style="flex: 1;">
-    <img src="github_molier.png" alt="Minha Imagem" style="max-width: 100%; height: auto;">
+    <img src="github molier.png" alt="Minha Imagem" style="max-width: 100%; height: auto;">
   </div>
 
   <!-- Código C# à direita -->
