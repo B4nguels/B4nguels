@@ -1,6 +1,6 @@
 # Meu Projeto
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: right;">
   <div style="flex: 1;">
     ### Descrição do Projeto
     Este é um projeto incrível que faz várias coisas interessantes. Ele foi desenvolvido com o propósito de mostrar como alinhar uma imagem à direita e manter o texto à esquerda em um documento no GitHub.
