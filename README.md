@@ -15,7 +15,7 @@
   -------------------------------
   Nickname: B4nguel's™
   Bio: Lately, I've been taking a full-stack programming course. I enjoy working with graphic design, and I've been looking for small jobs recently.
-  Location: 🇧🇷
+  nationality 🇧🇷
   Languages: Html, css, and JavaScript
   Learning: 
   Side interest: Gaming and going out
