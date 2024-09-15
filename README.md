@@ -21,6 +21,10 @@
 ```
 <p align = "center">
     <a href="https://skillicons.dev">
-        <img style="margin: 10px"src="https://skillicons.dev/icons?i=html,css,js,discord,linkedin,ps,line=8"alt="My Skills"/> 
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=html,css,js,ps,line=8"alt="My Skills"/> 
+    </a>
+
+  <a href="https://skillicons.dev">
+        <img style="margin: 10px"src="https://skillicons.dev/icons?i=discord,linkedin,line=8"alt="My Skills"/> 
     </a>
 </p>
